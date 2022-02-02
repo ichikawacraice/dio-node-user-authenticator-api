@@ -1,0 +1,9 @@
+{
+"database": {
+  "uri": "postgres://vmchtqqf:oER4Eo29EgucH3BDJVGJHjMCVw8QM7UR@kesavan.db.elephantsql.com/vmchtqqf"
+},
+  "authentication": {
+    "cryptKey": "crc_crypto",
+    "secretKey": "crc_secret_key"
+  }
+}
